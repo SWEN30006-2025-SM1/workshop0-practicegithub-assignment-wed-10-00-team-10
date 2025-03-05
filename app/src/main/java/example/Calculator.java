@@ -16,6 +16,6 @@ public class Calculator {
 
     public double divide(int a, int b) {
         // TODO: Implement this method
-        return 5;
+        return a/b;
     }
 }
